@@ -5,3 +5,5 @@ a CNN-based network feature extractor and a multi-layer perceptron (MLP) classif
 This process results in a function that outputs a 2D image so that it can be used as input data for a pre-trained CNN-VGG16 feature extractor.
 Furthermore, we also investigate other acoustic features such as MFCCs, chromagram, spectral contrast, and the tonnetz to assess our proposed
 framework. A test accuracy of 92.79% on the Berlin EMO-DB database is achieved. Our result is higher than previous works using CNN-VGG16.
+
+Model architecture and training
