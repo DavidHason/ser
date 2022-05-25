@@ -13,7 +13,7 @@ We use the CNN-VGG16 as a feature extractor to learn from high dimensional featu
 
 
 
-Experimental analysis:
+#Experimental analysis:
 
 The sample voices are randomly partitioned and 80% are used for the training set and 10% for the validation and test set for the speaker-independent classification task. We apply an oversampling strategy to compensate the minority classes and increase the voice samples before feeding them to the feature extractor network during the pre-processing phase.
 
