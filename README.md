@@ -24,3 +24,9 @@ to obtain each subsample length = 2.9 sec. Then, the subsamples are created in e
 maps are obtained from a sample rate of 88KHz. Based on the time-frequency trade-off, large frame size is chosen to obtain high-frequency resolution rather
 than time resolution since analysing the frequency of speech signal enables us to decode emotion.
 
+
+
+
+https://link.springer.com/content/pdf/10.1007/978-3-031-05936-0.pdf
+
+https://link.springer.com/chapter/10.1007/978-3-031-05936-0_31
