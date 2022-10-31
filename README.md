@@ -1,5 +1,5 @@
 # Leveraged Mel Spectrograms Using Harmonic and Percussive Components in Speech Emotion Recognition
-Please cite the paper below link if you are interested the proposed method.
+Please cite the paper if you are interested the proposed method.
 https://doi.org/10.1007/978-3-031-05936-0_31
 
 Speech Emotion Recognition (SER) affective technology enables the intelligent embedded devices to interact with sensitivity. Similarly, call centre employees recognise customers’ emotions from their pitch, energy, and tone of voice so as to modify their speech for a highquality interaction with customers. This work explores, for the first time, the effects of the harmonic and percussive components of Mel spectrograms in SER. We attempt to leverage the Mel spectrogram by decomposing distinguishable acoustic features for exploitation in our proposed architecture, which includes a novel feature map generator algorithm,
